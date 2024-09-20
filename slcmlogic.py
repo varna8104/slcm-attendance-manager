@@ -7,10 +7,11 @@ tctbc=100 #total classes to be conducted
 rc=(75*tctbc)/100 #required classes to maintain 75% attendence
 a=rc-tca #number of classes the student has to attend 
 rem=tctbc-tcc #number of classes that can be conducted
+per=round((tca/tcc)*100,2)
 if tcc==tca==0:
     print("Your Current Attendence Percentage: 0")
 else:
-    print("Your Current Attendence Percentage: ",round((tca/tcc)*100,2))
+    print("Your Current Attendence Percentage: ",per)
     if rem<a:
         print("You have attendence shortage!! Contact your HOD")
     elif rem>a:
