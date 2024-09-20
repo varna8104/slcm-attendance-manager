@@ -1,4 +1,3 @@
-#basic logic
 tcc=int(input("Enter the number of classes conducted: ")) #tcc=total classes conducted
 tca=int(input("Enter the number of classes attended: ")) #tca=total classes attended
 if tca>tcc:
