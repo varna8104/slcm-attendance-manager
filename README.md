@@ -1,7 +1,7 @@
 # slcm-attendance-manager
-<h><b><u>Team members </u></b> </h>
+<h> Team members </h>
 <p> Abhivarna <br>
-    Divyasurabhi<br>
-    Gowthami<br>
-    Lahari
+    Divyasurabhi <br>
+    Gowthami <br>
+    Lahari <br>
 </p>
